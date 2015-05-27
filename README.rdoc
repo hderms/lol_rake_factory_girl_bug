@@ -1,0 +1,3 @@
+== README
+
+Minimal Rails project to reproduce bug
