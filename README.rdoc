@@ -1,3 +1,5 @@
 == README
 
-Minimal Rails project to reproduce bug
+Minimal Rails project to reproduce Rails bug which was subsequently fixed by me in PR: https://github.com/rails/rails/pull/20326
+
+
